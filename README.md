@@ -13,7 +13,7 @@ It is a dynamic quiz application powered by the Open Trivia Database API. The ap
 
 ## 🚀 Live Demo  
 
-https://sct-wd-3-siddharth.netlify.app  
+https://sct-wd-3-psi.vercel.app/ 
 
 ---
 
